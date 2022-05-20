@@ -4,6 +4,6 @@ I love helping others and solving problems. That was also one of the reasons for
  
 Working as a financial advisor has taught me how to efficiently and effectively communicate with people, and understand their needs. Communication skill makes a crucial part of a software engineer’s life. My experience would help me as a software engineer to better understand product requirements, and work in a team. Building an app from scratch is really exciting. 
 
-Feel free to reach out via Github or email <br>
+## Feel free to reach out🌎 <br>
 [Github](https://github.com/kayjinyi) <br>
 [email](mailto:kayjinyi@gmail.com)
