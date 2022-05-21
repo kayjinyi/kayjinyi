@@ -6,5 +6,7 @@ Working as a financial advisor has taught me how to efficiently and effectively 
 or contact me at haleycseymour@comcast.net.
 
 
-## Feel free to reach out🌎  and check out my LinkedIn:https://www.linkedin.com/in/yi-jin-4912bb33/ and my portfolio:  https://kayjinyi.github.io/secondPortfolio/<br>
-[email](mailto:kayjinyi@gmail.com)
+## Feel free to reach out🌎 [email](mailto:kayjinyi@gmail.com)
+
+Check out my LinkedIn:https://www.linkedin.com/in/yi-jin-4912bb33/ and my portfolio:  https://kayjinyi.github.io/secondPortfolio/<br>
+
