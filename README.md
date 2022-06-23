@@ -8,7 +8,7 @@ Working as a financial advisor has taught me how to efficiently and effectively 
 
 ## Feel free to reach out🌎 [email](mailto:kayjinyi@gmail.com)
 
-Check out my LinkedIn:  https://www.linkedin.com/in/yi-jin-4912bb33/ and my portfolio:  https://kayjinyi.github.io/secondPortfolio/<br>
+Check out my LinkedIn:  https://www.linkedin.com/in/yi-jin-4912bb33/ and my portfolio:  https://www.linkedin.com/in/yi-jin-4912bb33/<br>
 ![kayjinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayjinyi&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayjinyi&layout=compact&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
